@@ -7,7 +7,7 @@ on:
 env:
   AWS_REGION: us-east-2
   ECR_REPOSITORY: todo-backend
-  ECS_CLUSTER: todo-app-cluster
+  ECS_CLUSTER: todo-app-cluser
   ECS_SERVICE: todo-app-service
   ECS_TASK_DEFINITION: todo-app-task-definition
   CONTAINER_NAME: todo-app
